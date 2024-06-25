@@ -5,7 +5,7 @@
   --color-text: #222;
   --color-background: white;
   --color-light: silver;
-  --color-primary: #7950f2;
+  --color-primary: #ef8833;
 
   @media (prefers-color-scheme: dark) {
     --color-text: #fff;
@@ -21,7 +21,5 @@
   /**
     Fonts
   */
-  --font-family-sans-serif:
-    system,
-    -apple-system;
+  --font-family-sans-serif: system, -apple-system;
 }
