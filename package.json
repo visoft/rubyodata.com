@@ -1,5 +1,5 @@
 {
-  "name": "ZeroPoint",
+  "name": "rubyodata.com",
   "version": "1.0.2",
   "description": "",
   "main": "index.html",
@@ -16,7 +16,7 @@
     "type": "git",
     "url": "git+project_urlname"
   },
-  "author": "MWDelaney",
+  "author": "visoft",
   "license": "MIT",
   "browserslist": [
     "last 2 versions"
